@@ -24,7 +24,7 @@ header {
 /*---------- CONTENT AREA ----------*/
 
 .col-3 {
-  width: 33.3%;
+  width: 50%;
   height: 320px;
   float: left;
 }
